@@ -1,7 +1,7 @@
 ### 👋 • Olá eu sou DlySan
 
-- 🌱 Eu atualmente estou aprendendo **JavaScript**, **TypeScript**, **Python** e **PHP**.
-- 😄 Possuo 21 anos e sou um estudande de **Desenvolvimento de Software**.
+- 👥 Eu atualmente estou aprendendo **JavaScript**, **TypeScript**, **Python** e **PHP**.
+- 🌹 Eu sou um Desenvolvedor **Full Stack**, que estuda **Desenvolvimento de Software**.
 - 🎓 Pretendo fazer faculdade de **Ciências da Computação** ou **Engenharia de Software**.
 
 ### 📐 • Linguagens e Ferramentas
