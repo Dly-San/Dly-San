@@ -1,14 +1,15 @@
-### 👋 Olá eu sou DlySan
+### 👋 • Olá eu sou DlySan
 
 - 🌱 Eu atualmente estou aprendendo **JavaScript**, **TypeScript**, **Python** e **PHP**.
 - 😄 Possuo 21 anos e sou um estudande de **Desenvolvimento de Software**.
 - 🎓 Pretendo fazer faculdade de **Ciências da Computação** ou **Engenharia de Software**.
 
-### 📐 Linguagens e Ferramentas
+### 📐 • Linguagens e Ferramentas
 
 <img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
 <img align="left" height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j">
 <img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
+<img align="left" height="32px" width="32px" alt="TS logo" src= "https://cutt.ly/aQuhLvx">
 <img align="left" height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C">
 <img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
