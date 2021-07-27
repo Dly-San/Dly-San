@@ -1,6 +1,6 @@
 ### 👋 • Olá eu sou DlySan
 
-- 👥 Eu atualmente estou aprendendo **JavaScript**, **TypeScript**, **Python** e **PHP**.
+- 👥 Eu atualmente estou aprendendo **JavaScript**, **TypeScript**, **Python**, **PHP** e **C#**.
 - 🌹 Eu sou um Desenvolvedor **Full Stack**, que estuda **Desenvolvimento de Software**.
 - 🎓 Pretendo fazer faculdade de **Ciências da Computação** ou **Engenharia de Software**.
 
